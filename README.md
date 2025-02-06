@@ -1,11 +1,8 @@
-# Halo semua! 
+# Hello! 
 
-Perkenalkan nama saya **Ariq Andrean**.<br>
-
-Saya seorang **Mahasiswa Aktif** di [Universitas Indraprasta PGRI](https://unindra.ac.id/).<br>
+Undergraduate Student at [Universitas Indraprasta PGRI](https://unindra.ac.id/).<br>
 
 - 😄 Pronouns: Mas/Bang
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ariq-andrean-b5492b1b0/)
 
 ### Github Statistic
 <p align="left">
