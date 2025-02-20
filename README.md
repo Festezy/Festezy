@@ -1,9 +1,6 @@
 # Hello! 
 
 Undergraduate Student at [Universitas Indraprasta PGRI](https://unindra.ac.id/).<br>
-
-- 😄 Pronouns: Mas/Bang
-
 ### Github Statistic
 <p align="left">
   <a href="https://github.com/Festezy">
